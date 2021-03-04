@@ -1,5 +1,7 @@
 
 ![Phone input](./img/result.gif)
+</br>
+
 Mobile operators:
   - `Kyivstar`: 67, 68, 96, 97, 98
   - `Vodafone`: 50, 66, 95, 99
